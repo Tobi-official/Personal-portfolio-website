@@ -10,6 +10,7 @@
 
 .client--image {
     width: 4rem;
+    height: 4rem;
     overflow: hidden;
     aspect-ratio: 1/1;
     overflow: hidden;
@@ -46,6 +47,10 @@
 .mobile {
     text-align: left;
     font-size: 0.9rem;
+}
+
+.reference {
+    margin-top: 1.5rem;
 }
 
 

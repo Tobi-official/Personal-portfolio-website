@@ -44,7 +44,7 @@ const Testimonials = () => {
                 This is to Certify that Onigbanjo Abdul Basit, whose portfolio is on view is a certified 
                 web designer & developer from Heroic Online Universal Int'l.
               </p>
-              <h3>REFERENCE </h3>
+              <h3 className='reference'>REFERENCE </h3>
               <p className='mobile'>Mr Uche Joe, CEO Heroic Online Universal Int'l.</p>
               <p className='mobile'>Mobile: +234 803 774 7461</p>
             </div>

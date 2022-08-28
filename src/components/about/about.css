@@ -108,6 +108,12 @@
     margin: 2rem auto 2rem;
    }
 
+
+   #about {
+    margin-bottom: 8rem;
+    height: 100%;
+   }
+
    .about--cards {
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
