@@ -11,7 +11,7 @@ const data = [
         image: image1,
         title: 'Fitness-Workout website',
         github: 'https://github.com/Tobi-official/react-project-website',
-        demo: 'https://github.com/Tobi-official/react-project-website'
+        demo: 'https://react-project-website.vercel.app/'
     },
     {
         id: 2,
